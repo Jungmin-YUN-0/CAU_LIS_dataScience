@@ -1,5 +1,4 @@
-**문헌정보학 교과목의 주요 키워드 관계 분석**  
-(Analysis of Keyword Relationship in Lectures of Library and Information Science)  
+**문헌정보학 교과목의 주요 키워드 관계 분석** (Analysis of Keyword Relationship in Lectures of Library and Information Science)   
 윤정민, 김나무, 김학래
 
 **KEYWORDS**:  
